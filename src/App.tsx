@@ -12,7 +12,7 @@ import {ChoiceRow} from "./components/ChoiceRow";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/ui_table",
     element: <Empty />,
   },
   {
